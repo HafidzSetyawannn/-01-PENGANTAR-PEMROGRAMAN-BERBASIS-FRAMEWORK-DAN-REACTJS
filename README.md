@@ -11,13 +11,11 @@
 
 1. Git adalah sistem kontrol versi yang digunakan untuk melacak perubahan pada kode sumber dalam pengembangan perangkat lunak. Kegunaannya antara lain: Mengelola Versi Kode – Memungkinkan developer menyimpan riwayat perubahan kode dan kembali ke versi sebelumnya jika terjadi kesalahan. Kolaborasi – Memudahkan kerja tim dalam pengembangan perangkat lunak melalui platform seperti GitHub, GitLab, dan Bitbucket.
 Branching & Merging – Dapat membuat cabang (branch) untuk mengembangkan fitur baru tanpa mengganggu kode utama, lalu menggabungkannya kembali (merge) setelah selesai.
-
 VS Code adalah editor kode yang ringan namun memiliki banyak fitur yang membantu dalam pengembangan perangkat lunak. Kegunaannya antara lain:
 Menulis dan Mengedit Kode – Mendukung berbagai bahasa pemrograman seperti JavaScript, Python, PHP, dan lainnya.
 Fitur IntelliSense – Menyediakan saran kode dan debugging untuk meningkatkan efisiensi coding.
 Terminal Terintegrasi – Memungkinkan penggunaan perintah Git dan Node.js langsung di dalam VS Code.
 Ekstensi & Kustomisasi – Memiliki banyak ekstensi untuk meningkatkan fungsionalitas, seperti integrasi dengan GitHub, linting, dan debugging.
-
 Node.js adalah runtime JavaScript yang berjalan di sisi server. Kegunaannya antara lain:
 Menjalankan JavaScript di Server – Memungkinkan pengembangan backend menggunakan JavaScript.
 Membangun API & Aplikasi Web – Banyak digunakan dalam pengembangan aplikasi berbasis web, terutama dengan framework seperti Express.js.
