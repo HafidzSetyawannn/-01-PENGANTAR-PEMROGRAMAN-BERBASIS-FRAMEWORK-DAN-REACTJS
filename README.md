@@ -9,7 +9,7 @@
 
 ### Jawaban Soal 1
 
-1. Git adalah sistem kontrol versi yang digunakan untuk melacak perubahan pada kode sumber dalam pengembangan perangkat lunak. Kegunaannya    antara lain: Mengelola Versi Kode – Memungkinkan developer menyimpan riwayat perubahan kode dan kembali ke versi sebelumnya jika terjadi kesalahan. Kolaborasi – Memudahkan kerja tim dalam pengembangan perangkat lunak melalui platform seperti GitHub, GitLab, dan Bitbucket.
+1. Git adalah sistem kontrol versi yang digunakan untuk melacak perubahan pada kode sumber dalam pengembangan perangkat lunak. Kegunaannya antara lain: Mengelola Versi Kode – Memungkinkan developer menyimpan riwayat perubahan kode dan kembali ke versi sebelumnya jika terjadi kesalahan. Kolaborasi – Memudahkan kerja tim dalam pengembangan perangkat lunak melalui platform seperti GitHub, GitLab, dan Bitbucket.
 Branching & Merging – Dapat membuat cabang (branch) untuk mengembangkan fitur baru tanpa mengganggu kode utama, lalu menggabungkannya kembali (merge) setelah selesai.
 
 VS Code adalah editor kode yang ringan namun memiliki banyak fitur yang membantu dalam pengembangan perangkat lunak. Kegunaannya antara lain:
